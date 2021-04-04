@@ -11,6 +11,6 @@ How to run the system:
    * P3: Is the code of operation of the calculation itself: 1-addition, 2-subtraction, 3-multiplication, 4-division.
    * P4: Is the second numeric value.
 3. As the client receiving the answer from the server software, the client will print the answer on the screen and stop working.
-4. To stop the server, move back the server to the foreground and send him signal (for example SIGINT by using ctrl + c).
+4. To stop the server, move back the server to the foreground and send him a signal (for example: SIGINT by using ctrl + c).
 
 
