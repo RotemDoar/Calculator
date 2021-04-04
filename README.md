@@ -5,7 +5,7 @@ This is a client and server system based on signal communication, multiprocessin
 
 How to run the system:
 1. Run the server as a job (background).
-2. Run the client program. The Client program reviece 4 parameters: 
+2. Run the client program. The Client program revieces 4 parameters: 
    * P1 : The server PID.
    * P2 : The first numeric value on which the calculation operation must be performed.
    * P3: Is the code of operation of the calculation itself: 1-addition, 2-subtraction, 3-multiplication, 4-division.
